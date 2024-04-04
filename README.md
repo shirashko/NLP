@@ -2,11 +2,16 @@
 
 Welcome to my repository for the Natural Language Processing course. This repository is a collection of exercises that demonstrate various NLP concepts, from basic language models and POS tagging to advanced applications with Transformers.
 
-<p align="left">
-  <img src="https://i.ytimg.com/vi/RWkHJnFj5rY/sddefault.jpg" alt="Image 2" />
-</p>
-<img src="https://cdn.siasat.com/wp-content/uploads/2023/02/Transformer-Model.png" alt="Transformer Model" height="500" />
-
+<table>
+  <tr>
+    <td>
+      <img src="https://i.ytimg.com/vi/RWkHJnFj5rY/sddefault.jpg" alt="Left Image" height="400" />
+    </td>
+    <td>
+      <img src="https://cdn.siasat.com/wp-content/uploads/2023/02/Transformer-Model.png" alt="Right Image" height="400" />
+    </td>
+  </tr>
+</table>
 
 
 ## Repository Structure
