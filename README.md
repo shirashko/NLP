@@ -1,4 +1,4 @@
-# Natural Language Processing Coursework Repository
+# Natural Language Processing Repository
 
 Welcome to my repository for the Natural Language Processing course. This repository is a collection of exercises that demonstrate various NLP concepts, from basic language models and POS tagging to advanced applications with Transformers.
 
